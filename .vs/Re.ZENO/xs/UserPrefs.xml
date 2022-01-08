@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F7A71654-F08F-7586-92C6-B02BFD682755}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameScripts/Effects/SevenEffectUseCase.cs">
+    <Files>
+      <File FileName="Assets/GameScripts/TopManager.cs" Line="25" Column="6" />
+      <File FileName="Assets/GameScripts/Effects/SecondManager.cs" Line="47" Column="42" />
+      <File FileName="Assets/GameScripts/Deck.cs" />
+      <File FileName="Assets/GameScripts/Hand.cs" />
+      <File FileName="Assets/GameScripts/Card.cs" />
+      <File FileName="Assets/GameScripts/UsedBox.cs" />
+      <File FileName="Assets/GameScripts/IUsedBox.cs" />
+      <File FileName="Assets/GameScripts/Effects/ThreeEffectUseCase.cs" />
+      <File FileName="Assets/GameScripts/Effects/FourEffectUseCase.cs" Line="12" Column="25" />
+      <File FileName="Assets/GameScripts/Effects/FiveEffectUseCase.cs" />
+      <File FileName="Assets/GameScripts/Effects/SevenEffectUseCase.cs" Line="28" Column="25" />
+      <File FileName="Assets/GameScripts/Effects/EightEffectUseCase.cs" Line="23" Column="32" />
+      <File FileName="Assets/GameScripts/Effects/NineEffectUseCase.cs" />
+      <File FileName="Assets/GameScripts/Effects/OneEffectUseCase.cs" Line="15" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9d66f58-d6cf-477d-805f-bdb3c425362e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
